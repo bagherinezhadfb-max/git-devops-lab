@@ -1,1 +1,2 @@
 Version A and Version B
+GitHub Remote Connected
